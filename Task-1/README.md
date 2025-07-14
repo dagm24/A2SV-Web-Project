@@ -26,7 +26,7 @@ Clone the repository and navigate to the project directory:
 git clone https://github.com/dagm24/A2SV-Web-Project.git
 cd A2SV-Web-Project
 cd Task-1
-
+```
 
 Open `ToDo.html` directly in your browser, **or** use a local server like **Live Server (VS Code extension)** for the best experience.
 
