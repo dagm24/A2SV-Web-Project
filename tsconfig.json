@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "outDir": "Task-2/dist",
+    "rootDir": "Task-2/src",
+    "strict": true
+  },
+  "include": ["Task-2/src/**/*"]
+}
