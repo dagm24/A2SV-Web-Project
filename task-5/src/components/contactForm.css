@@ -1,0 +1,83 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #4a148c, #880e4f);
+    color: #fff;
+  }
+  
+  .contact-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px 40px;
+  }
+  
+  .contact-card {
+    background: #1a1a2e;
+    padding: 30px;
+    border-radius: 10px;
+    max-width: 500px;
+    width: 100%;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  .contact-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .contact-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .contact-form .form-label {
+    display: block;
+    margin-bottom: 5px;
+    color: #fff;
+    font-size: 14px;
+  }
+  
+  .contact-form .form-input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background: #2c2c54;
+    color: #fff;
+  }
+  
+  .contact-form .form-input:focus {
+    outline: none;
+    background: #3d3d6b;
+  }
+  
+  .contact-form .form-error {
+    color: #ff6b6b;
+    font-size: 12px;
+    margin-top: 5px;
+  }
+  
+  .contact-form .form-button {
+    padding: 10px 20px;
+    background: #e94560;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  .contact-form .form-button:hover {
+    background: #ff6b6b;
+  }
+  
+  .contact-form .form-success {
+    margin-top: 10px;
+    color: #32ff7e;
+    font-size: 14px;
+    text-align: center;
+  }
