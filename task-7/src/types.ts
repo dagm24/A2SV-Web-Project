@@ -1,0 +1,20 @@
+export type OpportunityType = {
+  id: string;
+  title: string;
+  description: string;
+  company?: string;
+  orgName?: string;
+  logoUrl?: string;
+  location?: string[] | string;
+  postedOn?: string;
+  datePosted?: string;
+  deadline?: string;
+  startDate?: string;
+  endDate?: string;
+  categories?: string[];
+  requiredSkills?: string[];
+  responsibilities?: string;
+  requirements?: string;
+  idealCandidate?: string;
+  whenAndWhere?: string;
+};
