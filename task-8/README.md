@@ -122,14 +122,13 @@ The app integrates with a backend API at `https://akil-backend.onrender.com` for
 | `NEXTAUTH_URL` | Base URL for NextAuth.js | Yes |
 | `NEXT_PUBLIC_API_BASE_URL` | Backend API URL | Yes |
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Run tests and linting
-5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License.
+## Screenshots
+- **Signup Page:**
+  ![Signup Screenshot](../screenshoots/signup.png)
+  *User registration form with validation and feedback.*
+- **Signin Page:**
+  ![Signin Screenshot](../screenshoots/signin.png)
+  *User login form with error handling and token display.*
+- **Verify Email Page:**
+  ![Verify Email Screenshot](../screenshoots/verify-email.png)
+  *OTP input for email verification.*
