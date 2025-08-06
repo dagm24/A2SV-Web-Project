@@ -124,11 +124,17 @@ The app integrates with a backend API at `https://akil-backend.onrender.com` for
 
 ## Screenshots
 - **Signup Page:**
+*User registration form with validation and feedback.*
+
   ![Signup Screenshot](../task-8/screenshoots/signup.png)
-  *User registration form with validation and feedback.*
+  
 - **Signin Page:**
+ *User login form with error handling and token display.*
+
   ![Signin Screenshot](../task-8/screenshoots/signin.png)
-  *User login form with error handling and token display.*
+ 
 - **Verify Email Page:**
+*OTP input for email verification.*
+
   ![Verify Email Screenshot](../task-8/screenshoots/verify-email.png)
-  *OTP input for email verification.*
+  
